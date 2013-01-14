@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">net.cekage.vvmfreemobile</string>
+
+  
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btn_search">Trouver !</string>
+    <string name="et_mask">Clicker sur la loupe</string>
+
+</resources>
